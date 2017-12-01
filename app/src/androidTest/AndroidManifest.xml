@@ -1,5 +1,5 @@
-<manifest package="com.faendir.rhino_android"
-          xmlns:tools="http://schemas.android.com/tools">
+<manifest xmlns:tools="http://schemas.android.com/tools"
+    package="com.faendir.rhino_android">
 
-    <uses-sdk tools:overrideLibrary="android.support.test,android.app,android.support.test.rule"/>
+    <uses-sdk tools:overrideLibrary="android.support.test,android.app,android.support.test.rule" />
 </manifest>
