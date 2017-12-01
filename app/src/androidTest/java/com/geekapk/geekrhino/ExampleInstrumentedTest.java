@@ -1,4 +1,4 @@
-package org.duangsue.geekrhino;
+package com.geekapk.geekrhino;
 
 import static org.junit.Assert.*;
 
@@ -20,6 +20,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("org.duangsue.geekrhino", appContext.getPackageName());
+        assertEquals("com.geekapk.geekrhino", appContext.getPackageName());
     }
 }

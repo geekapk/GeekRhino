@@ -1,4 +1,4 @@
-package org.duangsue.geekrhino;
+package com.geekapk.geekrhino;
 
 import static org.junit.Assert.*;
 
